@@ -28,11 +28,11 @@ This e-commerce application is going to showcase the best practices in modern we
 
 ## Connect with me:
 
-<a href="https://twitter.com/your_username">
-  <img align="left" alt="Your Name | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/qasimusman/">
+  <img align="left" alt="Usman Qasim" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/your_username/">
-  <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="mailto:1998usman@gmail.com">
+  <img align="left" alt="1998Usman@gmail.com" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
 </a>
 
 <br />
