@@ -32,7 +32,7 @@ This e-commerce application is going to showcase the best practices in modern we
   <img align="left" alt="Usman Qasim" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:1998usman@gmail.com">
-  <img align="left" alt="1998Usman@gmail.com" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="left" alt="1998Usman@gmail.com" width="22px" src="https://www.svgrepo.com/show/349378/gmail.svg" />
 </a>
 
 <br />
