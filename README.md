@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -14,21 +12,27 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## What i'm doing here
 
-To learn more about Next.js, take a look at the following resources:
+I'm delighted to introduce a project I'm embarking on – a single-page e-commerce application. This modern web application leverages the power and flexibility of Next.js, a popular React-based framework that provides out-of-the-box features like server-side rendering and static site generation.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Our application will be styled with Tailwind CSS, a utility-first CSS framework that allows for highly customizable designs without leaving your HTML. With its "utility-first" approach, we will be able to rapidly build our interface with a wide array of tiny, responsive classes that can be composed to build any design, directly in our markup.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+On the backend, we will be using ASP.NET 6 Web API for managing our data. ASP.NET 6 is a modern, open-source framework developed by Microsoft for building high-performance, cross-platform web applications. With its Web API functionality, we will be able to create a robust and scalable backend that handles operations such as managing product inventory, processing orders, user authentication, and more.
 
-## Deploy on Vercel
+By choosing Next.js for our frontend, we'll benefit from its ability to optimize our site for performance, SEO, and accessibility. Tailwind CSS will provide us with the flexibility to create a customized, responsive, and sleek user interface, while ASP.NET 6 Web API will assure a robust and reliable backend.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This e-commerce application is going to showcase the best practices in modern web development while providing an efficient and enjoyable shopping experience for its users. I'm thrilled to bring this project to life and will ensure to keep you updated with its progress.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Connect with me:
+
+<a href="https://twitter.com/your_username">
+  <img align="left" alt="Your Name | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/your_username/">
+  <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
