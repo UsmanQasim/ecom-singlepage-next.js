@@ -11,6 +11,8 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+          'gradient-huckleberry': 'linear-gradient(to right, rgb(251, 146, 60), rgb(251, 113, 133))',
+          'gradient-flower' : 'conic-gradient(at right center, rgb(196, 181, 253), rgb(167, 139, 250))',
       },
       colors:{
         'primary': '#8956F1',

@@ -1,7 +1,8 @@
 import React from 'react';
+import SearchBar from './home/SearchBar';
 
 function HomePage() {
-  return <div>Welcome to my homepage!</div>;
+  return <div><SearchBar /></div>;
 }
 
 export default HomePage;
