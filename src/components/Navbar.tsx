@@ -1,8 +1,8 @@
 function Navbar() {
     return (
-        <div className="w-full h-28 bg-gradient-flower p-4 flex justify-between align-middle">
+        <div className="w-full h-[100%] shadow-[0px_10px_50px_-30px_#718096] p-4 flex justify-between align-middle">
             <div className="lg:block hidden xl:block"></div>
-            <h2 className="font-sans text-thirdcolor text-2xl font-extrabold tracking-widest flex justify-center items-center">Brand Name</h2>
+            <h2 className="font-sans text-primary text-2xl font-extrabold tracking-widest flex justify-center items-center">Brand Name</h2>
             <div className="flex justify-between items-center">
                 <button className="bg-white hover:bg-secondary hover:shadow-[0px_0px_10px_2px_#ffff] hover:text-white border border-secondary p-2 w-20 h-20 rounded-full text-fourthcolor font-semibold flex justify-center items-center flex-col shadow-[0px_0px_10px_2px_#CB80FF]">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.7} stroke="currentColor" className="w-8 h-8">

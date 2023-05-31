@@ -2,8 +2,8 @@ import React from 'react'
 
 const SearchBar = () => {
     return (
-        <div className=' pt-4 w-full h-20 flex justify-center items-center'>
-            <form className='w-[40%] '>
+        <div className='w-full h-[100%] flex justify-center items-center'>
+            <form className='w-[100%] md:w-[45%] p-1'>
                 <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
