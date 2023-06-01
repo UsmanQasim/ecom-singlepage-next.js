@@ -1,13 +1,19 @@
+// Imports from React & Next
 import React from 'react';
-import Layout from '../components/Layout';
-import '../styles/tailwind.css'
 import { AppProps } from 'next/app'
+
+// Style Imports
+import '@/styles/global.css'
+
+// Layout Imports
+import { MainLayout } from '@/layouts';
+
 
 const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
   return (
-    <Layout>
+    <MainLayout>
       <Component {...pageProps} />
-    </Layout>
+    </MainLayout>
   );
 }
 
